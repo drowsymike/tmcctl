@@ -1,0 +1,5 @@
+build/
+compile.sh
+test.txt
+tmcctl
+.vscode/
