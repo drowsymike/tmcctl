@@ -3,3 +3,5 @@ compile.sh
 test.txt
 tmcctl
 .vscode/
+oldmain.c
+note.txt

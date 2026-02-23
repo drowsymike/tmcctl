@@ -1,2 +1,0 @@
-that's only note for me
-i have some plans to describe how the fuck all of this code work because system programming for linux is kinda new topic for me
